@@ -1,4 +1,4 @@
-# pixomato-docs
+# Pixomato Docs
 This repository provides the documentation for Pixomato
 
 This is directly integrated with the main Pixomato repository, so you can type "https://alatomking.github.io/pixomato/docs" to get this website.
